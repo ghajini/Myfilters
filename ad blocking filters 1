@@ -27,10 +27,14 @@ movies123.pk##[href^="//himekingrow.com/"]
 ##[href="https://buycheaphost.net/"]
 
 /wp-content/plugins/soralink/assets/js/soralink.js$script
+
 ! expermental,may cause fp
 /pfe/current/*.min.js
+
 ! prope. crap ads
 movies4me.*##+js(acis, Math, break;case $.)
+updatesmovie.xyz##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
+hdmoviesflixz.in,updatesmovie.xyz##^script:has-text(break;case $.)
 
 123-watch.com##+js(aopw, puShown)
 
@@ -52,6 +56,8 @@ aashiqmizaaj.com##+js(acis, Math.imul)
 ||trafogon.com^
 ||ptwmjmp.com^
 ||awbbjmp.com^
+||olouphoo.com^
+||atmetagrossan.com^
 
 tamil.indianexpress.com##.adcode728x90
 tamil.indianexpress.com##.adcode300x250
