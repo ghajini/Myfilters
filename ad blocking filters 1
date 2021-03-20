@@ -3,7 +3,7 @@
 ! Author: ghajini
 ! Expires: 10 days
 
-mp3lac.blogspot.com,todaypktv.*##+js(nowoif)
+mp3lac.blogspot.com,todaypktv.*,mp4moviez.ch##+js(nowoif)
 ||kindaunique.me/links.php$popup
 ||mr-jatt.in/sww.js$script,1p
 ||rricultscarlo.top^
@@ -32,7 +32,7 @@ movies123.pk##[href^="//himekingrow.com/"]
 /pfe/current/*.min.js
 
 ! prope. crap ads
-movies4me.*,filmy4wap1.*##+js(acis, Math, break;case $.)
+movies4me.*,filmy4wap1.*,bollyshare.*,gomovies.*##+js(acis, Math, break;case $.)
 updatesmovie.xyz##+js(aost, Math.random, /\st\.[a-zA-Z]*\s/)
 hdmoviesflixz.in,updatesmovie.xyz##^script:has-text(break;case $.)
 
@@ -62,6 +62,8 @@ aashiqmizaaj.com##+js(acis, Math.imul)
 ||win-your-prize-now2.life^
 ||home-prize-winner-ma2d.live^
 ||chpok.pw^
+||h8bjfdcu.com^
+||bin-tds.site^
 
 tamil.indianexpress.com##.adcode728x90
 tamil.indianexpress.com##.adcode300x250
@@ -102,3 +104,6 @@ filmy4wap.*###sam
 ||link2me.xyz/adsme.php$subdocument
 ||link2me.xyz/adshe.php$subdocument
 filmymaza.blogspot.com,uploadmaza.com,moviezwaphd.*##+js(aopw, _pop)
+||binomo.com^$popup,3p
+
+latesthdmovies.bid##+js(aopr, absda)
